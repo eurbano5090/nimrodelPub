@@ -1,0 +1,84 @@
+#footer{
+    background-image: url("../img/fondo.jpg");
+    padding: 10% ;
+    font-size: 16px;
+    color: aliceblue;
+    margin-bottom: 3rem;
+    background-repeat:repeat;
+}
+.carrusel{
+    max-height: 50%;
+    object-fit: cover;
+    object-fit: fill;
+}
+
+#destacados{
+padding-top: 5rem;
+font-family: 'Lobster',Verdana, Geneva, Tahoma, sans-serif;
+font-display: center;
+text-align: center;
+padding: 5%;
+}
+#destacados h1{
+    padding-top: 3.5rem;
+    font-weight: 600;
+    font-size: 3rem;
+    color: #A1947D;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#barra{
+    background-image: url('../img/fondo.jpg');
+    color: #ffff;
+    background-position: left top;
+    padding-bottom: 3.5rem;
+    background-repeat: repeat-x;
+}
+
+
+main{
+    margin-top: 3.5rem;
+}
+#comunica{
+    background: #403d39;
+    color: #ffff;
+    display: none;
+    padding: 4%;
+    border-radius: 2%;
+}
+#reserva{
+    background: #403d39;
+    color: #ffff;
+    display: none;
+    padding: 4%;
+    border-radius: 2%;
+}
+
+@media (min-width: 501px) and (max-width: 750px) {
+    
+    #comunica{
+        display:block;
+    }
+    #reserva{
+        display:block;
+    }
+}
+
+@media (min-width: 751px) {
+    #comunica{
+        display:block;
+    }
+    #reserva{
+        display:block;
+    }
+}
+
+.modal{
+   
+    margin: 3.5rem;
+    background: #403d39;
+    color: aliceblue;
+  
+}
+
