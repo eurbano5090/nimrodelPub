@@ -12,8 +12,6 @@ Designed to keep simplicity in mind in both setup and UI.
                    <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" id="icon" height="50"></i>
                    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" id="icon" height="50"></i>
                  
-<li> [Font Awesome](https://fontawesome.com/)</li>
-<li> Bootstrap</li>
-<li> Jquery
+
 </ul>
  
